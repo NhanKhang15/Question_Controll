@@ -1,0 +1,120 @@
+﻿question_id,text,label,hint,order
+1,Dưới 21 ngày,A,Chu kỳ ngắn,1
+1,21-25 ngày,B,Chu kỳ ngắn,2
+1,26-30 ngày,C,Chu kỳ dài,3
+1,Trên 30 ngày,D,Chu kỳ dài,4
+2,Không có thai,A,Liên quan đến tình trạng mang thai,1
+2,Đang mang thai,B,Liên quan đến tình trạng mang thai,2
+2,Đang cho con bú,C,Khác/không có,3
+2,Đang cố gắng có thai,D,Liên quan đến tình trạng mang thai,4
+3,Không sử dụng,A,Không áp dụng hoặc không có,1
+3,Bao cao su,B,Biện pháp tránh thai - bao cao su,2
+3,Thuốc tránh thai,C,Liên quan đến tình trạng mang thai,3
+3,Vòng tránh thai,D,Liên quan đến tình trạng mang thai,4
+3,Khác,E,Khác/không có,5
+4,Dưới 7 ngày trước,A,Khác/không có,1
+4,7-14 ngày trước,B,Khác/không có,2
+4,15-21 ngày trước,C,Chu kỳ ngắn,3
+4,Hơn 21 ngày trước,D,Chu kỳ ngắn,4
+5,Không đau,A,Không áp dụng hoặc không có,1
+5,Đau nhẹ,B,Khác/không có,2
+5,Đau vừa,C,Khác/không có,3
+5,Đau dữ dội,D,Khác/không có,4
+6,Đỏ tươi,A,Khác/không có,1
+6,Đỏ sẫm,B,Khác/không có,2
+6,Nâu,C,Khác/không có,3
+6,Đen,D,Khác/không có,4
+7,Ít,A,Khác/không có,1
+7,Trung bình,B,Khác/không có,2
+7,Nhiều,C,Khác/không có,3
+7,Rất nhiều,D,Khác/không có,4
+8,Đau bụng,A,Khác/không có,1
+8,Đau lưng,B,Khác/không có,2
+8,Mệt mỏi,C,Khác/không có,3
+8,Tâm trạng thay đổi,D,Khác/không có,4
+8,Mụn,E,Khác/không có,5
+8,Không có triệu chứng,F,Khác/không có,6
+9,Chưa từng,A,Không áp dụng hoặc không có,1
+9,Thỉnh thoảng,B,Khác/không có,2
+9,Thường xuyên,C,Khác/không có,3
+10,Không có,A,Khác/không có,1
+10,U xơ tử cung,B,Không áp dụng hoặc không có,2
+10,Lạc nội mạc tử cung,C,Khác/không có,3
+10,Viêm âm đạo,D,Khác/không có,4
+10,Khác,E,Khác/không có,5
+11,Không,A,Khác/không có,1
+11,Thỉnh thoảng,B,Không áp dụng hoặc không có,2
+11,Thường xuyên,C,Khác/không có,3
+12,Không,A,Khác/không có,1
+12,Ít khi,B,Không áp dụng hoặc không có,2
+12,Thường xuyên,C,Khác/không có,3
+12,Rất thường xuyên,D,Khác/không có,4
+13,Chưa từng,A,Khác/không có,1
+13,Thỉnh thoảng,B,Khác/không có,2
+13,Thường xuyên,C,Khác/không có,3
+14,Không thay đổi,A,Khác/không có,1
+14,Tăng lo âu,B,Không áp dụng hoặc không có,2
+14,Buồn bã,C,Khác/không có,3
+14,Cáu gắt,D,Khác/không có,4
+14,Thay đổi thất thường,E,Khác/không có,5
+15,Ngày bắt đầu & kết thúc,A,Khác/không có,1
+15,Tâm trạng,B,Khác/không có,2
+15,Triệu chứng,C,Khác/không có,3
+15,Lượng máu,D,Khác/không có,4
+15,Tất cả các mục trên,E,Khác/không có,5
+16,Luôn luôn,A,Theo dõi đều đặn,1
+16,Thỉnh thoảng,B,Không đều,2
+16,Hiếm khi,C,Ít theo dõi,3
+16,Không bao giờ,D,Không theo dõi,4
+17,Dưới 21 ngày,A,Chu kỳ ngắn,1
+17,21–25 ngày,B,Chu kỳ ngắn,2
+17,26–30 ngày,C,Chu kỳ điển hình,3
+17,Trên 30 ngày,D,Chu kỳ dài,4
+18,Không bao giờ,A,Ổn định,1
+18,1–2 lần,B,Thỉnh thoảng,2
+18,3–4 lần,C,Tương đối thường,3
+18,Trên 4 lần,D,Thường xuyên,4
+19,Nặng,A,Ảnh hưởng sinh hoạt,1
+19,Vừa,B,Gây khó chịu,2
+19,Nhẹ,C,Ảnh hưởng ít,3
+19,Không có,D,Không triệu chứng,4
+20,Luôn luôn,A,Theo dõi đều đặn,1
+20,Thỉnh thoảng,B,Không đều,2
+20,Hiếm khi,C,Ít theo dõi,3
+20,Không bao giờ,D,Không theo dõi,4
+21,Luôn luôn,A,Theo dõi đều đặn,1
+21,Thỉnh thoảng,B,Không đều,2
+21,Hiếm khi,C,Ít theo dõi,3
+21,Không bao giờ,D,Không theo dõi,4
+22,Không bao giờ,A,Ổn định,1
+22,1–2 lần,B,Thỉnh thoảng,2
+22,3–4 lần,C,Tương đối thường,3
+22,Trên 4 lần,D,Thường xuyên,4
+23,Có,A,Trả lời khẳng định,1
+23,Không,B,Trả lời phủ định,2
+23,Đôi khi,C,Không thường xuyên,3
+23,Không rõ,D,Chưa chắc chắn,4
+24,Nặng,A,Cần tư vấn thêm,1
+24,Vừa,B,Theo dõi thêm,2
+24,Nhẹ,C,Tự chăm sóc,3
+24,Không có,D,Bình thường,4
+25,Muốn dự đoán để mang thai,A,Lập kế hoạch có thai,1
+25,Muốn dự đoán để tránh thai,B,Kế hoạch tránh thai,2
+25,Chỉ để theo dõi sức khỏe,C,Theo dõi thông tin,3
+25,Chưa có nhu cầu,D,Không áp dụng,4
+26,"Có, trong 6 tháng gần đây",A,Gần đây,1
+26,"Có, trong 1 năm",B,Trong năm,2
+26,"Có, trên 1 năm",C,Đã lâu,3
+26,Chưa từng/Không,D,Không có,4
+33,"Có, trong 6 tháng gần đây",A,Gần đây,1
+33,"Có, trong 1 năm",B,Trong năm,2
+33,"Có, trên 1 năm",C,Đã lâu,3
+33,Chưa từng/Không,D,Không có,4
+34,"Có, trong 6 tháng gần đây",A,Gần đây,1
+34,"Có, trong 1 năm",B,Trong năm,2
+34,"Có, trên 1 năm",C,Đã lâu,3
+34,Chưa từng/Không,D,Không có,4
+35,Cao,A,Ảnh hưởng sinh hoạt,1
+35,Vừa,B,Đáng chú ý,2
+35,Nhẹ,C,Ít ảnh hưởng,3
+35,Không,D,Ổn định,4

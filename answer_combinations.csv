@@ -1,0 +1,8 @@
+﻿question_id,combination,next_question_set_id
+1,A,2
+1,D,2
+1,B,3
+1,C,3
+1,E,3
+2,A,2
+2,"B,C,D,E",2
